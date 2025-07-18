@@ -38,7 +38,7 @@ python blip.py myfile.py     # Open an existing file, and start editing !
 ## 🚀 DEMO
 
 <p align="center">
-  <img src="https://github.com/Joel-Shine/blip/blob/main/demo.png" width="700" alt="DEMO.png">
+  <img src="https://github.com/Joel-Shine/blip/blob/main/demo.png" width="1000" alt="DEMO.png">
 </p>
 
 ---
