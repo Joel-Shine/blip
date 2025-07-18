@@ -29,8 +29,8 @@ pip install prompt_toolkit pygments
 ## 🚀 Usage
 
 ```bash
-python blip.py               # Start editing a new file
-python blip.py myfile.py     # Open an existing file
+python blip.py               # Start editing a new file !
+python blip.py myfile.py     # Open an existing file, and start editing !
 ```
 
 ---
