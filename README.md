@@ -35,6 +35,14 @@ python blip.py myfile.py     # Open an existing file, and start editing !
 
 ---
 
+## 🚀 DEMO
+
+<p align="center">
+  <img src="https://github.com/Joel-Shine/blip/blob/main/demo.png" width="350" alt="DEMO.png">
+</p>
+
+---
+
 ## 🧭 Keyboard Shortcuts
 
 | Shortcut     | Action                      |
