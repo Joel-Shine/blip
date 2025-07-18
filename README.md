@@ -2,7 +2,7 @@
   <img src="https://github.com/Joel-Shine/ilovetreminal/blob/main/iloveterminal.svg" alt="iloveterminal logo" height="100">
 </p>
 
-<h1 align="center"><img src="https://github.com/Joel-Shine/blip/blob/main/logo.png" alt="blip logo" height="50"> Blip — A Lightweight CLI Text Editor</h1>
+<h1 align="center"><img src="https://github.com/Joel-Shine/blip/blob/main/logo.png" alt="blip logo" height="30"> Blip — A Lightweight CLI Text Editor</h1>
 
 ---
 
