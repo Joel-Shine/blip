@@ -117,16 +117,8 @@ Blip is ideal for:
 - [`prompt_toolkit`](https://github.com/prompt-toolkit/python-prompt-toolkit)
 - [`pygments`](https://pygments.org/) for syntax lexing
 
----
+👨‍💻 About
+Created with ❤️ in the terminal by Joel Shine — because the terminal isn't retro, it's revolutionary.
 
-## 🧪 Screenshot
-
-```
-+----------------------------------------------------------+
-| def hello():                                             |
-|     print("Hello from Blip!")                            |
-|                                                          |
-|                                                          |
-+----------------------------------------------------------+
-[File saved to hello.py ✅]
-```
+🐛 Found a bug?
+Feel free to open an issue or submit a pull request!
