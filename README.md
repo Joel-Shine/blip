@@ -18,7 +18,31 @@
 
 ---
 
-## 🛠️ Installation
+## 🛠️ Installation Guide
+
+Blip runs on Windows, macOS, and Linux. Choose the method for your platform below:
+
+---
+
+### Windows (blip.exe)
+
+1. Download the latest [`blip.exe`](https://github.com/Joel-Shine/blip/releases/latest)
+2. Run the installer — it will:
+   - Copy `blip.exe` to a system-wide location
+   - Add it to your system `PATH` automatically
+3. Open **Command Prompt** or **PowerShell**, and type:
+   ```bash
+   blip myfile.py
+
+### Mac-OS (blip-macos.tar.gz)
+
+1. Download the latest [blip-macos.tar.gz](https://github.com/Joel-Shine/blip/releases/latest)
+2. Extract and install it via terminal:
+```bash
+tar -xvzf blip-macos.tar.gz
+chmod +x blip
+sudo mv blip /usr/local/bin/
+```
 
 ```bash
 pip install prompt_toolkit pygments
