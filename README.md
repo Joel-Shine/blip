@@ -32,7 +32,7 @@ Blip runs on Windows, macOS, and Linux. Choose the method for your platform belo
    - Add it to your system `PATH` automatically
 3. Open **Command Prompt** or **PowerShell**, and type:
    ```bash
-   blip myfile.py
+   blip myfile.extension
 
 ### Mac-OS (blip-macos.tar.gz)
 
@@ -43,9 +43,32 @@ tar -xvzf blip-macos.tar.gz
 chmod +x blip
 sudo mv blip /usr/local/bin/
 ```
+3. Open **iTerm2** or **Terminal**, and run globally:
+   ```bash
+   blip myfile.extension
+   ```
+   
+### Linux/Debian (blip_installer.deb)
 
+1. Download the latest [blip_installer.deb](https://github.com/Joel-Shine/blip/releases/latest)
+2. Install it via terminal:
 ```bash
+sudo dpkg -i file_name.deb
+```
+3. Open **Terminal**, and run globally:
+   ```bash
+   blip myfile.extension
+   ```
+
+### Or run from source
+1. Clone this repo
+2. Fire up command prompt and install the following requirements (ensure, it's Python 3 environment)
+  ```bash
 pip install prompt_toolkit pygments
+```
+3. Navigate to the directory, open up terminal and type:
+```bash
+python blip.py filename.extension
 ```
 
 ---
